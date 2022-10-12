@@ -1,2 +1,2 @@
 # dotfiles
-config files from my linux system
+config files from my computers
