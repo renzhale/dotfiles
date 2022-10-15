@@ -22,8 +22,6 @@ Plug 'junegunn/fzf.vim'
 " If you want to have icons in your statusline choose one of these
 Plug 'kyazdani42/nvim-web-devicons'
 
-
-
 " Syntax Highlighting
 Plug 'yuezk/vim-js'
 Plug 'tpope/vim-commentary'
@@ -37,7 +35,6 @@ Plug 'https://github.com/rafi/awesome-vim-colorschemes' " Retro Scheme
 Plug 'https://github.com/ap/vim-css-color' " CSS Color Preview
 Plug 'ryanoasis/vim-devicons'
 Plug 'lambdalisue/nerdfont.vim'
-
 
 call plug#end()
 
