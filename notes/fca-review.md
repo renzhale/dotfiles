@@ -4,9 +4,9 @@ To Whom It May Concern,
 
 I am writing you to commend Cynthia Tarlo and inform you of the excellent positive experience my wife and I had while dealing with the unfortunate circumstance of having our vehicle repurchased.
 
-We recently found ourselves in a particularly uncomfortable and disheartening situation. A brand new Jeep Wrangler we purchased had a catastrophic engine failure rendering the car inoperable. After considerable diagnostics by the dealership and Chrysler engineers it was decided we would exercise our option to have the vehcile repurchased.
+We recently found ourselves in a particularly uncomfortable and disheartening situation. Four months (and 3300 miles) after buying a new Jeep Wrangler it had a catastrophic engine failure rendering the car inoperable. After considerable diagnostics by the dealership and Chrysler engineers it was decided we would exercise our option to have the vehcile repurchased.
 
-Shortly after contacting Jeep Customer Service, we met Adrian. Adrian was outstanding! He was professional, courteous and very competent. He helped us by communicating our options and making us feel comfortable when we asked so many questions and wanted to discuss everything about the process of each option. He convinced us he was genuinly interested in helping us resolve our problem.
+Shortly after contacting Jeep Customer Service, we met Adrian. Adrian was outstanding! He was professional, courteous and competent. He helped us by communicating our options and making us feel comfortable when we asked so many questions and wanted to discuss everything about the process of each option. He convinced us he was genuinly interested in helping us resolve our problem.
 
 When we opted for the repurchase, we were contacted by Cynthia. She was, in a word, exceptional.
 
